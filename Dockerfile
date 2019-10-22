@@ -1,5 +1,5 @@
 FROM python:3.6
-LABEL maintainer 'Meu nome’
+LABEL maintainer 'Teste IFTM'
 
 RUN useradd www && \
 mkdir /app && \
